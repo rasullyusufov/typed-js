@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FF5151;
+    height: 100vh;
+}
+
+header{
+    width: 50%;
+    height: 20%;
+    color: #ffffff;
+    background-color: #6B4F4F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
